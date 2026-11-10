@@ -4,6 +4,11 @@ Fortinet SSL VPN controls in the [DankMaterialShell](https://github.com/AvengeMe
 top bar. Click the key icon next to the system tray to manage connections, connect
 and disconnect. There's no separate app window. Under the hood it uses `openfortivpn`.
 
+<p>
+  <img src="docs/menu.png" alt="Forti Bar menu with a saved connection" width="384">
+  <img src="docs/edit.png" alt="Editing a connection" width="384">
+</p>
+
 ## Install
 
 ### Bazzite / Fedora Atomic
