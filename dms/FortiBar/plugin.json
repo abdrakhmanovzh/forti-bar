@@ -1,0 +1,12 @@
+{
+  "id": "fortiBar",
+  "name": "Forti Bar",
+  "description": "Fortinet VPN controls and profiles in your DMS top-bar menu",
+  "version": "0.2.2",
+  "author": "Forti Bar contributors",
+  "type": "widget",
+  "capabilities": ["dankbar-widget"],
+  "component": "./FortiBar.qml",
+  "icon": "vpn_key",
+  "permissions": ["process"]
+}

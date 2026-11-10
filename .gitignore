@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+build/
+dist/
+*.egg-info/
+
+# Local tool state
+.aws/
+.codex/
+.agents/
+.claude/

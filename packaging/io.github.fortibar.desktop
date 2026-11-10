@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=Forti Bar
+GenericName=Fortinet VPN
+Comment=A quieter way to connect
+Exec=forti-bar --install-dms
+Icon=io.github.fortibar
+Terminal=false
+Categories=Network;Security;
+Keywords=VPN;Fortinet;FortiGate;openfortivpn;
+StartupNotify=true
+StartupWMClass=io.github.fortibar

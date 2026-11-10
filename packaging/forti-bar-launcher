@@ -1,0 +1,7 @@
+#!/usr/bin/python3 -I
+import sys
+
+sys.path.insert(0, "/usr/lib/forti-bar")
+from fortibar.app import main
+
+raise SystemExit(main())
